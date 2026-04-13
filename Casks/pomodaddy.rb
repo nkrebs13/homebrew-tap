@@ -1,6 +1,6 @@
 cask "pomodaddy" do
-  version "2026.3.4"
-  sha256 "de155d60010637ee18b6ef16fb98cc85e941d8c6efdc747ac0d0be9a4854aedf"
+  version "2026.3.5"
+  sha256 "d88e3370f1c8970595280d160a2893503579867c5a586e3a4104464c0ccad5c1"
 
   url "https://github.com/nkrebs13/PomoDaddy/releases/download/v#{version}/PomoDaddy-#{version}.dmg"
   name "PomoDaddy"
